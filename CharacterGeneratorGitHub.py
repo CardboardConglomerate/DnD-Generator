@@ -1,3 +1,4 @@
+# This file requies PyQt5 to be installed along with Python. (Coded in Python 3.7.0)
 import random
 from PyQt5 import QtCore, QtGui, QtWidgets
 
